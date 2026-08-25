@@ -1,6 +1,8 @@
 # Photoplethysmography (PPG) Signal Acquisition and Conditioning
+![](Basic%20block%20diagram.png)
 
 ## Project Overview
+![](With%20PI%20controller/Output.png)
 
 This project presents the design, simulation, and analysis of a Photoplethysmography (PPG) signal acquisition and conditioning system.
 
