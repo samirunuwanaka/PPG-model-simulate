@@ -1,8 +1,8 @@
-PWD d:/Ideas/TEX files/New folder
+PWD d:/Ideas/PPG lab/docs
 INPUT d:/TexLive/2026/texmf.cnf
 INPUT d:/TexLive/2026/texmf-dist/web2c/texmf.cnf
 INPUT c:/Users/USER/.texlive2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Ideas/TEX files/New folder/230449N PPG.tex
+INPUT d:/Ideas/PPG lab/docs/230449N PPG.tex
 OUTPUT 230449N PPG.log
 INPUT d:/TexLive/2026/texmf-dist/tex/latex/base/article.cls
 INPUT d:/TexLive/2026/texmf-dist/tex/latex/base/article.cls
@@ -273,15 +273,90 @@ INPUT ./230449N PPG.toc
 INPUT 230449N PPG.toc
 INPUT d:/TexLive/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT 230449N PPG.toc
+INPUT ./absorbance_spectrum.png
+INPUT ./absorbance_spectrum.png
+INPUT ./absorbance_spectrum.png
+INPUT ./absorbance_spectrum.png
+INPUT ./absorbance_spectrum.png
+INPUT ../Typical plethysmographic waveform as seen on a plethysmogram for clinical use.png
+INPUT ../Typical plethysmographic waveform as seen on a plethysmogram for clinical use.png
+INPUT ../Typical plethysmographic waveform as seen on a plethysmogram for clinical use.png
+INPUT ../Typical plethysmographic waveform as seen on a plethysmogram for clinical use.png
+INPUT ../Typical plethysmographic waveform as seen on a plethysmogram for clinical use.png
 INPUT d:/TexLive/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT d:/TexLive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT ../Basic block diagram.png
+INPUT ../Basic block diagram.png
+INPUT ../Basic block diagram.png
+INPUT ../Basic block diagram.png
+INPUT ../Basic block diagram.png
 INPUT d:/TexLive/2026/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT ../Design of the sensor/The picture of Emitter.png
+INPUT ../Design of the sensor/The picture of Emitter.png
+INPUT ../Design of the sensor/The picture of Emitter.png
+INPUT ../Design of the sensor/The picture of Emitter.png
+INPUT ../Design of the sensor/The picture of Emitter.png
+INPUT ../Design of the sensor/The LTC Spice model of the receiver.png
+INPUT ../Design of the sensor/The LTC Spice model of the receiver.png
+INPUT ../Design of the sensor/The LTC Spice model of the receiver.png
+INPUT ../Design of the sensor/The LTC Spice model of the receiver.png
+INPUT ../Design of the sensor/The LTC Spice model of the receiver.png
+INPUT ../Design of the sensor/The PI Controller.png
+INPUT ../Design of the sensor/The PI Controller.png
+INPUT ../Design of the sensor/The PI Controller.png
+INPUT ../Design of the sensor/The PI Controller.png
+INPUT ../Design of the sensor/The PI Controller.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../Emitter/Emitter MosFET in G LED current R.png
+INPUT ../Emitter/Emitter MosFET in G LED current R.png
+INPUT ../Emitter/Emitter MosFET in G LED current R.png
+INPUT ../Emitter/Emitter MosFET in G LED current R.png
+INPUT ../Emitter/Emitter MosFET in G LED current R.png
+INPUT ../Reciever/Current Adder.png
+INPUT ../Reciever/Current Adder.png
+INPUT ../Reciever/Current Adder.png
+INPUT ../Reciever/Current Adder.png
+INPUT ../Reciever/Current Adder.png
+INPUT ../Reciever/Non Inverting Amplifier utput.png
+INPUT ../Reciever/Non Inverting Amplifier utput.png
+INPUT ../Reciever/Non Inverting Amplifier utput.png
+INPUT ../Reciever/Non Inverting Amplifier utput.png
+INPUT ../Reciever/Non Inverting Amplifier utput.png
+INPUT ../Reciever/Reciver Integrater out.png
+INPUT ../Reciever/Reciver Integrater out.png
+INPUT ../Reciever/Reciver Integrater out.png
+INPUT ../Reciever/Reciver Integrater out.png
+INPUT ../Reciever/Reciver Integrater out.png
+INPUT ../Emitter with Sensor/Output.png
+INPUT ../Emitter with Sensor/Output.png
+INPUT ../Emitter with Sensor/Output.png
+INPUT ../Emitter with Sensor/Output.png
+INPUT ../Emitter with Sensor/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Output.png
+INPUT ../With PI controller/Feedback Output.png
+INPUT ../With PI controller/Feedback Output.png
+INPUT ../With PI controller/Feedback Output.png
+INPUT ../With PI controller/Feedback Output.png
+INPUT ../With PI controller/Feedback Output.png
+INPUT ../With PI controller/Feedback input.png
+INPUT ../With PI controller/Feedback input.png
+INPUT ../With PI controller/Feedback input.png
+INPUT ../With PI controller/Feedback input.png
+INPUT ../With PI controller/Feedback input.png
 INPUT d:/TexLive/2026/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT 230449N PPG.aux
 INPUT ./230449N PPG.out
 INPUT ./230449N PPG.out
 INPUT d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
