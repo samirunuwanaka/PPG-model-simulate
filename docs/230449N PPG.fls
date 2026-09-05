@@ -1,8 +1,8 @@
-PWD d:/Ideas/PPG lab/docs
+PWD d:/Ideas/PPG-model-simulate/docs
 INPUT d:/TexLive/2026/texmf.cnf
 INPUT d:/TexLive/2026/texmf-dist/web2c/texmf.cnf
 INPUT c:/Users/USER/.texlive2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Ideas/PPG lab/docs/230449N PPG.tex
+INPUT d:/Ideas/PPG-model-simulate/docs/230449N PPG.tex
 OUTPUT 230449N PPG.log
 INPUT d:/TexLive/2026/texmf-dist/tex/latex/base/article.cls
 INPUT d:/TexLive/2026/texmf-dist/tex/latex/base/article.cls

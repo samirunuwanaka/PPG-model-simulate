@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.2)  25 AUG 2026 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.2)  5 SEP 2026 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Ideas/PPG lab/docs/230449N PPG.tex"
-(d:/Ideas/PPG lab/docs/230449N PPG.tex
+**"d:/Ideas/PPG-model-simulate/docs/230449N PPG.tex"
+(d:/Ideas/PPG-model-simulate/docs/230449N PPG.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
 (d:/TexLive/2026/texmf-dist/tex/latex/base/article.cls
@@ -610,7 +610,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 ....6}Bode Plot Analysis}{15}{subsection.5.6}
+l.42 ....6}Bode Plot Analysis}{16}{subsection.5.6}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `"230449N PPG.toc"'.
@@ -661,44 +661,46 @@ File: ../Emitter/Emitter MosFET in G LED current R.png Graphic file (type png)
 <use ../Emitter/Emitter MosFET in G LED current R.png>
 Package pdftex.def Info: ../Emitter/Emitter MosFET in G LED current R.png  used on input line 453.
 (pdftex.def)             Requested size: 367.42377pt x 168.3982pt.
-<../Reciever/Current Adder.png, id=384, 1445.4pt x 665.48625pt>
+<../Reciever/Current Adder.png, id=384, 366.168pt x 545.03625pt>
 File: ../Reciever/Current Adder.png Graphic file (type png)
 <use ../Reciever/Current Adder.png>
 Package pdftex.def Info: ../Reciever/Current Adder.png  used on input line 463.
-(pdftex.def)             Requested size: 367.42377pt x 169.16364pt.
+(pdftex.def)             Requested size: 367.42377pt x 546.91446pt.
  [9 <../With PI controller/Output.png> <../Emitter/Emitter MosFET in G LED current R.png>]
-<../Reciever/Non Inverting Amplifier utput.png, id=393, 1445.4pt x 664.73344pt>
+<../Reciever/Non Inverting Amplifier utput.png, id=393, 364.36125pt x 497.4585pt>
 File: ../Reciever/Non Inverting Amplifier utput.png Graphic file (type png)
 <use ../Reciever/Non Inverting Amplifier utput.png>
 Package pdftex.def Info: ../Reciever/Non Inverting Amplifier utput.png  used on input line 473.
-(pdftex.def)             Requested size: 367.42377pt x 168.97227pt.
-<../Reciever/Reciver Integrater out.png, id=394, 1445.4pt x 655.69969pt>
+(pdftex.def)             Requested size: 367.42377pt x 501.66246pt.
+ [10 <../Reciever/Current Adder.png>]
+<../Reciever/Reciver Integrater out.png, id=400, 334.24875pt x 522.15076pt>
 File: ../Reciever/Reciver Integrater out.png Graphic file (type png)
 <use ../Reciever/Reciver Integrater out.png>
 Package pdftex.def Info: ../Reciever/Reciver Integrater out.png  used on input line 483.
-(pdftex.def)             Requested size: 367.42377pt x 166.67593pt.
- [10 <../Reciever/Current Adder.png> <../Reciever/Non Inverting Amplifier utput.png>]
-<../Emitter with Sensor/Output.png, id=403, 1445.4pt x 657.95813pt>
+(pdftex.def)             Requested size: 367.42377pt x 574.02502pt.
+ [11 <../Reciever/Non Inverting Amplifier utput.png>]
+<../Emitter with Sensor/Output.png, id=407, 1445.4pt x 657.95813pt>
 File: ../Emitter with Sensor/Output.png Graphic file (type png)
 <use ../Emitter with Sensor/Output.png>
 Package pdftex.def Info: ../Emitter with Sensor/Output.png  used on input line 493.
 (pdftex.def)             Requested size: 367.42377pt x 167.25002pt.
+ [12 <../Reciever/Reciver Integrater out.png>]
 File: ../With PI controller/Output.png Graphic file (type png)
 <use ../With PI controller/Output.png>
 Package pdftex.def Info: ../With PI controller/Output.png  used on input line 503.
 (pdftex.def)             Requested size: 367.42377pt x 168.58955pt.
- [11 <../Reciever/Reciver Integrater out.png> <../Emitter with Sensor/Output.png>]
-<../With PI controller/Feedback Output.png, id=412, 1445.4pt x 660.96938pt>
+<../With PI controller/Feedback Output.png, id=415, 1445.4pt x 660.96938pt>
 File: ../With PI controller/Feedback Output.png Graphic file (type png)
 <use ../With PI controller/Feedback Output.png>
 Package pdftex.def Info: ../With PI controller/Feedback Output.png  used on input line 513.
 (pdftex.def)             Requested size: 367.42377pt x 168.01546pt.
-<../With PI controller/Feedback input.png, id=413, 1444.64719pt x 665.48625pt>
+ [13 <../Emitter with Sensor/Output.png>]
+<../With PI controller/Feedback input.png, id=423, 1444.64719pt x 665.48625pt>
 File: ../With PI controller/Feedback input.png Graphic file (type png)
 <use ../With PI controller/Feedback input.png>
 Package pdftex.def Info: ../With PI controller/Feedback input.png  used on input line 519.
 (pdftex.def)             Requested size: 367.42377pt x 169.25502pt.
- [12 <../With PI controller/Feedback Output.png>] [13 <../With PI controller/Feedback input.png>] [14] [15] [16] [17] [18] [19] (./230449N PPG.aux)
+ [14 <../With PI controller/Feedback Output.png> <../With PI controller/Feedback input.png>] [15] [16] [17] [18] [19] [20] (./230449N PPG.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
@@ -707,18 +709,18 @@ Package rerunfilecheck Info: File `"230449N PPG".out' has not changed.
 (rerunfilecheck)             Checksum: 863A00F6A0D05B66AE955D2B1451DC19;10157.
  ) 
 Here is how much of TeX's memory you used:
- 22914 strings out of 467167
- 427478 string characters out of 5413685
- 844342 words of memory out of 5000000
+ 22915 strings out of 467167
+ 427516 string characters out of 5413685
+ 843342 words of memory out of 5000000
  51680 multiletter control sequences out of 15000+600000
  632086 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,94p,703b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,94p,714b,803s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/TexLive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "230449N PPG.pdf" (20 pages, 1128871 bytes).
+Output written on "230449N PPG.pdf" (21 pages, 1024879 bytes).
 PDF statistics:
- 574 PDF objects out of 1000 (max. 8388607)
- 491 compressed objects within 5 object streams
- 139 named destinations out of 1000 (max. 500000)
+ 578 PDF objects out of 1000 (max. 8388607)
+ 494 compressed objects within 5 object streams
+ 140 named destinations out of 1000 (max. 500000)
  544 words of extra memory for PDF output out of 10000 (max. 10000000)
 

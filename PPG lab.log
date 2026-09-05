@@ -1,4 +1,4 @@
-Circuit: * D:\Ideas\PPG lab\PPG lab.asc
+Circuit: * D:\Ideas\PPG-model-simulate\PPG lab.asc
 
 WARNING: Node N026 is floating.
 WARNING: Node N023 is floating.
@@ -37,21 +37,21 @@ Source stepping failed
 
 Pseudo transient terminated at 101.673 s, solution accepted ready or not!
 
-Date: Tue Aug 25 13:46:54 2026
-Total elapsed time: 4.567 seconds.
+Date: Sat Sep 05 16:48:55 2026
+Total elapsed time: 29.361 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 18168
-traniter = 11362
-tranpoints = 4618
-accept = 3067
-rejected = 1557
+totiter = 470650
+traniter = 463844
+tranpoints = 210064
+accept = 207182
+rejected = 2888
 matrix size = 725
 fillins = 1212
 solver = Normal
-Thread vector: 21.1/11.2[12] 13.1/4.5[12] 3.4/2.5[4] 2.1/3.9[1]  2592/500
-Matrix Compiler1: 84.77 KB object code size  21.5/10.3/[4.8]
-Matrix Compiler2: 67.42 KB object code size  7.9/10.8/[2.4]
+Thread vector: 21.7/10.4[12] 14.7/6.8[12] 2.7/3.0[1] 1.8/4.3[1]  2592/500
+Matrix Compiler1: 84.77 KB object code size  25.8/13.7/[3.3]
+Matrix Compiler2: 67.42 KB object code size  7.7/11.4/[2.4]
 

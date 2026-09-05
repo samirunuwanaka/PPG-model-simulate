@@ -24,34 +24,34 @@
 \contentsline {subsection}{\numberline {4.1}Emitter Stage Waveform}{9}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Transimpedance Amplifier Output (Current Adder)}{9}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Non-Inverting Amplifier Output}{10}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Receiver Integrator / Filter Output}{10}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Integrated Emitter with Sensor Output}{11}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}PPG Sensor with PI Controller Output}{11}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}PI Controller Feedback Signals}{12}{subsection.4.7}%
-\contentsline {subsection}{\numberline {4.8}Measured Waveform Parameters}{13}{subsection.4.8}%
-\contentsline {section}{\numberline {5}Analysis}{14}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Amplifier Gain}{14}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Standalone Receiver Non-Inverting Amplifier (U2)}{14}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}Integrated Sensor Gain Stage (R13/R12)}{14}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}PI Controller Output Amplifier (U10)}{14}{subsubsection.5.1.3}%
-\contentsline {subsubsection}{\numberline {5.1.4}Measured vs Theoretical Gain}{14}{subsubsection.5.1.4}%
-\contentsline {subsection}{\numberline {5.2}Lower Cutoff Frequency}{14}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Upper Cutoff Frequency}{14}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Overall Bandwidth}{15}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Noise Cancellation Using Filtering}{15}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Bode Plot Analysis}{15}{subsection.5.6}%
-\contentsline {subsection}{\numberline {5.7}PI Controller Analysis}{16}{subsection.5.7}%
-\contentsline {section}{\numberline {6}Discussion}{16}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Discussion of Results}{16}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Comparison of Theoretical and Simulated Values}{16}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Practical Implementation Considerations}{17}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}Component Placement}{17}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}Power Supply Noise}{17}{subsubsection.6.3.2}%
-\contentsline {subsubsection}{\numberline {6.3.3}Grounding}{17}{subsubsection.6.3.3}%
-\contentsline {subsubsection}{\numberline {6.3.4}Ambient Light}{17}{subsubsection.6.3.4}%
-\contentsline {subsubsection}{\numberline {6.3.5}Motion Artefacts}{17}{subsubsection.6.3.5}%
-\contentsline {subsubsection}{\numberline {6.3.6}PCB Layout}{17}{subsubsection.6.3.6}%
-\contentsline {subsubsection}{\numberline {6.3.7}Component Tolerances}{17}{subsubsection.6.3.7}%
-\contentsline {subsubsection}{\numberline {6.3.8}Operational Amplifier Selection}{17}{subsubsection.6.3.8}%
-\contentsline {subsection}{\numberline {6.4}Limitations}{17}{subsection.6.4}%
-\contentsline {section}{\numberline {7}Conclusion}{18}{section.7}%
+\contentsline {subsection}{\numberline {4.4}Receiver Integrator / Filter Output}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Integrated Emitter with Sensor Output}{13}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}PPG Sensor with PI Controller Output}{13}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}PI Controller Feedback Signals}{13}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Measured Waveform Parameters}{14}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Analysis}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Amplifier Gain}{15}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Standalone Receiver Non-Inverting Amplifier (U2)}{15}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Integrated Sensor Gain Stage (R13/R12)}{15}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}PI Controller Output Amplifier (U10)}{15}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Measured vs Theoretical Gain}{15}{subsubsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.2}Lower Cutoff Frequency}{15}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Upper Cutoff Frequency}{16}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Overall Bandwidth}{16}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Noise Cancellation Using Filtering}{16}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Bode Plot Analysis}{16}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}PI Controller Analysis}{17}{subsection.5.7}%
+\contentsline {section}{\numberline {6}Discussion}{17}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Discussion of Results}{17}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Comparison of Theoretical and Simulated Values}{18}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Practical Implementation Considerations}{18}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Component Placement}{18}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Power Supply Noise}{18}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Grounding}{18}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}Ambient Light}{18}{subsubsection.6.3.4}%
+\contentsline {subsubsection}{\numberline {6.3.5}Motion Artefacts}{18}{subsubsection.6.3.5}%
+\contentsline {subsubsection}{\numberline {6.3.6}PCB Layout}{18}{subsubsection.6.3.6}%
+\contentsline {subsubsection}{\numberline {6.3.7}Component Tolerances}{19}{subsubsection.6.3.7}%
+\contentsline {subsubsection}{\numberline {6.3.8}Operational Amplifier Selection}{19}{subsubsection.6.3.8}%
+\contentsline {subsection}{\numberline {6.4}Limitations}{19}{subsection.6.4}%
+\contentsline {section}{\numberline {7}Conclusion}{19}{section.7}%
